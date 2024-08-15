@@ -1,5 +1,5 @@
 # LearningAllyPrompt
-Nick Woolsey's Learning Ally Prompt for self-directed learning / heutagogy.
+Learning Ally Prompt for self-directed learning / heutagogy.
 
 **AI, Be Our Heutagogy Ally**
 Prompting AI to be a pillar of self- and group-directed learning
@@ -20,3 +20,5 @@ I have been writing the prompt knowing that more powerful models will  be releas
 The prompt includes asking the model to brainstorm within <brainstorm> tags. This is a provisional hack to get around the fact that the current generation of Large Language Models output one token at a time with limited ability to draft and plan. The content within the brainstorm tags is not meant to make sense semantically: Feel free to skip this content, although it can certainly be interesting. 
   
 Lastly, this prompt is meant to be a way to get started. Ideally you will rewrite the prompt to align with your own learning aspirations. Consider this a template to get started. I recommend copying and pasting the prompt into ChatGPT or Claude 3 (which is better) and then using the shorthands to explore any unfamiliar terms or concepts within the prompt. 
+
+- Nick Woolsey
