@@ -1,6 +1,9 @@
 # LearningAllyPrompt
 Learning Ally Prompt for self-directed learning / heutagogy.
 
+**Quick Start**
+Copy / Paste LearningAllyPrompt into any chat-based-LLM with a large enough prompt (~4050 GPT Tokens / ~20,000 Characters) then begin to explore the topic of your choice. Type "shorthand tutor mode" to ask it to help you learn how to use it based on the context of your discussion.
+
 **AI, Be Our Heutagogy Ally**
 Prompting AI to be a pillar of self- and group-directed learning
 
@@ -37,3 +40,7 @@ We can think of this entire prompt as a structure to begin with. Our linguistic 
  Thanks in advance, this will be awesome! 
 
 - Nick Woolsey
+
+Note: More documentation will be coming soon. 
+
+Some background is shared by Nick in his presentation for the Emerging Media Community of Practice here: https://youtu.be/XJEFPLdCBgk?si=7NRoUNi_Nwa1EXnQ&t=2785
