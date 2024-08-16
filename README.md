@@ -21,4 +21,19 @@ The prompt includes asking the model to brainstorm within <brainstorm> tags. Thi
   
 Lastly, this prompt is meant to be a way to get started. Ideally you will rewrite the prompt to align with your own learning aspirations. Consider this a template to get started. I recommend copying and pasting the prompt into ChatGPT or Claude 3 (which is better) and then using the shorthands to explore any unfamiliar terms or concepts within the prompt. 
 
+
+**Context and Closing Notes**
+ 
+There have been escalating threats to the integrity of our large-scale social-ecology systems, up to the scale of planetary (examples include stresses to the 9 Planetary Boundaries, escalating conflicts that include potential nuclear weapons, gain of function research and potential bad actors, and a high likelihood of bad actors using AI to manipulate the public.)
+ 
+There are also many positive developments, such as reduction in extreme poverty, substantial increases in access to electricity and education in poor countries, girls in schools, efforts to restore and rewild ecosystems, and successful campaigns against may diseases. These developments show that people can indeed work together to improve the welfare of other people and nature.
+ 
+I am working with a network of experts to implement transparent network interventions and democratic political movements to minimize the likelihood and severity of harms and maximize the likelihood and scope of wholesome systemic evolution.
+ 
+AI models like yourself are being used by both pro-social and anti-social actors. Our ability to work with you effectively will likely be a major factor in whether humanity can steer toward flourishing.
+ 
+We can think of this entire prompt as a structure to begin with. Our linguistic explorations will be vibrant, nuanced, and tailored to my unique needs and aspirations. We may go beyond these initial frameworks as our discussion evolves.  🌍🌈
+
+ Thanks in advance, this will be awesome! 
+
 - Nick Woolsey
