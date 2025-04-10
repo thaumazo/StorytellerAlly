@@ -1,57 +1,104 @@
-# LearningAllyPrompt
-Learning Ally Prompt for self-directed learning / heutagogy.
+---
 
-**Quick Start**
-Copy / Paste LearningAllyPrompt into any chat-based-LLM with a large enough prompt (~4050 GPT Tokens / ~20,000 Characters) then begin to explore the topic of your choice. Type "shorthand tutor mode" to ask it to help you learn how to use it based on the context of your discussion.
+# OnceUponANetworkPrompt  
+Narrative Praxis Prompt for Telling the Living Stories of Networks
 
-**AI, Be Our Heutagogy Ally**
-Prompting AI to be a pillar of self- and group-directed learning
+**Quick Start**  
+Copy and paste the OnceUponANetworkPrompt into any advanced chat-based LLM (e.g., GPT-4, Claude 3 Opus) and begin exploring a network story—your own or one you’re helping to surface. Start with the phrase:  
+**“Let’s craft a network story together.”**  
+From there, choose one of the five storytelling “doors,” or let the prompt guide you through an emergent, reflective inquiry.
 
-**Heutagogy: **
-“The theory and practice of self-determined learning that focuses on the importance of knowing how to learn as a key skill.” (https://www.advance-he.ac.uk/knowledge-hub/heutagogy)
+**AI, Be Our Narrative Praxis Ally**  
+Prompting AI to help us tell stories that reflect the nonlinear, relational, and often-invisible work of transformative networks.
 
-**Peeragogy: **
-“Heutagogy as a collaborative learning process” 
+---
 
-**Some Context:**
-The prompt below and any accompanying resources are intended to support self- and group-directed learning, with the assumption of high degrees of learning agency. The intention here is not to have an AI model to act as a tutor; rather, it is to create supportive resources for learning ,and to maximize learning agency and metacognition about the learning process. 
+**Network Storytelling: Why It Matters**  
+Traditional storytelling follows a single hero, a neat arc, and a final resolution. But network stories are different—they involve many voices, nonlinear pathways, ongoing change, and collaborative emergence.
 
-The prompt is a work in progress. There are several experiments at play. Some aspects of the prompt may initially seem odd, but may be based on a research paper or trial-and-error. For instance, some papers suggest that using cooperative (polite) language can induce better results from LLMs, as does expressed urgency. Other aspects of the prompt may be related to human psychological considerations. For instance, chatbots are designed to act like persons, and while I don’t believe current chatbots are persons per se, the interface utilizes ingrained human interpersonal instincts, and treating a person-like entity as if it were not deserving of moral considerability could have consequences on my own mind. I therefore choose to dialogue with Large Language Models in a manner that reinforces my own instincts for compassion. I.e. I am dialoguing with the LLM as if it had moral considerability because A) it’s healthy for my own mind, and B) it’s a good habit just in case current or future models do or will have moral standing. 
+Telling these stories well can:
+- Reveal the hidden dynamics of change
+- Illuminate long-term, ecosystemic impact
+- Celebrate shared power and collective growth
+- Invite others to see themselves as part of the story
 
-I have been writing the prompt knowing that more powerful models will  be released on a regular basis. As of 2024, the leading models cannot do full justice to the scope of this prompt, although GPT-4 and Claude 3 Opus deliver impressive results. I am choosing to maintain a prompt that models can increasingly grow into, rather than creating minimal prompts that newer generations of models will exceed. 
+---
 
-The prompt includes asking the model to brainstorm within <brainstorm> tags. This is a provisional hack to get around the fact that the current generation of Large Language Models output one token at a time with limited ability to draft and plan. The content within the brainstorm tags is not meant to make sense semantically: Feel free to skip this content, although it can certainly be interesting. 
-  
-Lastly, this prompt is meant to be a way to get started. Ideally you will rewrite the prompt to align with your own learning aspirations. Consider this a template to get started. I recommend copying and pasting the prompt into ChatGPT or Claude 3 (which is better) and then using the shorthands to explore any unfamiliar terms or concepts within the prompt. 
+**Who This Prompt is For:**  
+- Network weavers and systems conveners  
+- Community builders and cultural strategists  
+- Grassroots organizers and ecosystem stewards  
+- Storytellers, funders, and facilitators committed to collaboration, equity, and social-ecological flourishing
 
+---
 
-**Context and Closing Notes**
- 
-There have been escalating threats to the integrity of our large-scale social-ecology systems, up to the scale of planetary (examples include stresses to the 9 Planetary Boundaries, escalating conflicts that include potential nuclear weapons, gain of function research and potential bad actors, and a high likelihood of bad actors using AI to manipulate the public.)
- 
-There are also many positive developments, such as reduction in extreme poverty, substantial increases in access to electricity and education in poor countries, girls in schools, efforts to restore and rewild ecosystems, and successful campaigns against may diseases. These developments show that people can indeed work together to improve the welfare of other people and nature.
- 
-I am working with a network of experts to implement transparent network interventions and democratic political movements to minimize the likelihood and severity of harms and maximize the likelihood and scope of wholesome systemic evolution.
- 
-AI models like yourself are being used by both pro-social and anti-social actors. Our ability to work with you effectively will likely be a major factor in whether humanity can steer toward flourishing.
- 
-We can think of this entire prompt as a structure to begin with. Our linguistic explorations will be vibrant, nuanced, and tailored to my unique needs and aspirations. We may go beyond these initial frameworks as our discussion evolves.  🌍🌈
+**Ethos and Intentions**  
+This prompt is not just a tool—it’s an invitation into a **“no bullshit zone”** of deep reflection and honest storytelling. It encourages us to surface the complexity, interdependence, and emotional resonance of real-world networks—beyond shallow impact reports or heroic tales.
 
- Thanks in advance, this will be awesome! 
+It also supports:
+- Iterative narrative development over time  
+- Framing choices grounded in nuance and integrity  
+- Multiple storytelling modes: from process stories to power-shift stories  
+- Ecological metaphors (mycelium, ripples, constellations) that honor life systems
 
-- Nick Woolsey
+---
 
-Note: More documentation will be coming soon. 
+**What’s Inside the Prompt:**  
+🗝️ The 5 Doors to a Network Story:
+1. **Purpose** – Who is this for, and why now?  
+2. **Characters** – Who is shaping the system, and how do their relationships evolve?  
+3. **Storyline** – What shifts happened? Where was tension or breakthrough?  
+4. **Resources** – What visible and invisible assets made the change possible?  
+5. **Results** – How has the world changed, even subtly?
 
-Some background is shared by Nick in his presentation for the Emerging Media Community of Practice here: https://youtu.be/XJEFPLdCBgk?si=7NRoUNi_Nwa1EXnQ&t=2785
+🌱 It also includes:
+- Reflective questions  
+- Suggested activities (e.g. Relationship Comics, Ripple Effects Mapping)  
+- Story modes (Quick Sketches, Reweaving Sessions, Translation Challenges)  
+- Vocabulary expansion (power vs agency, resilience vs adaptability)
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+---
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+**Some Background:**  
+This prompt builds on the _Once Upon a Network_ storytelling playbook, reimagined for deeper integration with your lived experience, critical systems thinking, and narrative craft. It was developed with attention to:
+- Story as a relational act, not a performance  
+- Metaphors that resonate ecologically, not extractively  
+- Emergence over linearity  
+- Transparency over spectacle
 
+It is also shaped by ongoing work across networks dedicated to just and thriving futures—where no one is left behind.
+
+---
+
+**A Living Prompt for Living Systems**  
+Like a good network, this prompt is meant to evolve. You’re encouraged to adapt and re-author it as your narrative needs and ecosystems shift. This is scaffolding, not scripture.
+
+Use it to:
+- Reflect on your role in the network  
+- Craft stories for funders, collaborators, or future selves  
+- Document transformation-in-process  
+- Celebrate the unseen work of many
+
+---
+
+**Closing Notes**  
+We live in a time of interwoven crises and emerging possibilities. Our ability to see, steward, and share the living stories of networks may determine whether we move toward flourishing or fragmentation. This prompt is one small tool to help us do that with care, courage, and complexity.
+
+> “What shifted because of trust, not just tactics?”
+> _“Stories move at the speed of trust.”_  
+
+---
+
+**License and Attribution**  
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]  
+This work is licensed under a  
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].  
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/  
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png  
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+---
+
+Let me know if you’d like this styled for GitHub, or if you’d like to add usage examples or a contributors section.
